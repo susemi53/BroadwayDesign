@@ -4,7 +4,7 @@ body {
 }
 
 .heading {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-image: url(img/the-flatiron-building.png);
 }
 
 h1, a {
@@ -35,7 +35,7 @@ p {
 }
 
 #designedinNY {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-image: url(img/the-flatiron-building.png);
   font-size: 23px;
   color: white;
 }
@@ -43,8 +43,6 @@ p {
 .footer {
   text-align: left;
   background-color: dimgray;
-}
-
-.footer a {
   font-size: 11px;
+  color: white;
 }
